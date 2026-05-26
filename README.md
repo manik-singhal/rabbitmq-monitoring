@@ -19,7 +19,9 @@ rabbitmq-monitoring/
 ├── docker-compose-metrics.yml
 ├── docker-compose-overview.yml
 ├── README.md
+├── architecture.png
 └── screenshots/
+
 ```
 
 ---
